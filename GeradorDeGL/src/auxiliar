@@ -1,0 +1,11 @@
+João,joão.N+Pr:msé,ser.V:P3sbonito,bonito.N:ms|ADV|A:ms
+
+Luana,luana.N+Pr:fsé,ser.V:P3sadvogada,advogar.V:Kfs|N:fs|A:fs
+
+
+
+chave bonito,bonito.N:ms|ADV|A:ms valor0
+chave advogada,advogar.V:Kfs|N:fs|A:fs valor0
+chave João,joão.N+Pr:ms valor0
+chave Luana,luana.N+Pr:fs valor0
+chave é,ser.V:P3s valor1
