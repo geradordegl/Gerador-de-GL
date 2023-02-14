@@ -241,6 +241,8 @@ public class UnitexFunctions {
         
         try {
             // Tratamento de erro e execução do script
+            File scr = new File("./src/tccjni/script.sh");
+            scr.setExecutable(true);
             Process process = Runtime.getRuntime().exec(cmd);
             final InputStream is = process.getInputStream();
             final InputStreamReader isr = new InputStreamReader(is);
